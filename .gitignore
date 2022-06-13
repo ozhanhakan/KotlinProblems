@@ -1,0 +1,52 @@
+# Project exclude paths
+/.gradle/
+/Topics/Declaring functions/Comparing sums/out/
+/Topics/Declaring functions/Comparing sums/out/production/classes/
+/Topics/Declaring functions/Right equation/out/
+/Topics/Declaring functions/Right equation/out/production/classes/
+/Topics/Declaring functions/The square of a number/out/
+/Topics/Declaring functions/The square of a number/out/production/classes/
+/Topics/Equality/True captain/out/
+/Topics/Equality/True captain/out/production/classes/
+/Topics/For loop and lists/Circular shift/out/
+/Topics/For loop and lists/Circular shift/out/production/classes/
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/For loop and lists/Right Rotation/out/
+/Topics/For loop and lists/Right Rotation/out/production/classes/
+/Topics/For loop and ranges/The longest sequence/out/
+/Topics/For loop and ranges/The longest sequence/out/production/classes/
+/Topics/For loop and ranges/The minimum value of N numbers/out/
+/Topics/For loop and ranges/The minimum value of N numbers/out/production/classes/
+/Topics/Generic functions/More Kotlin/out/
+/Topics/Generic functions/More Kotlin/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/Named arguments/Deposit/out/
+/Topics/Named arguments/Deposit/out/production/classes/
+/Topics/Properties accessors/Correct overriding/out/
+/Topics/Properties accessors/Correct overriding/out/production/classes/
+/Topics/Ranges/At least one/out/
+/Topics/Ranges/At least one/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/When expression/Shape/out/
+/Topics/When expression/Shape/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/When expression/The army of units/out/
+/Topics/When expression/The army of units/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
+/Topics/Work with MutableLists/Guard On The Gate/out/
+/Topics/Work with MutableLists/Guard On The Gate/out/production/classes/
+/Topics/Working with strings/Last symbol/out/
+/Topics/Working with strings/Last symbol/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
+/Topics/Introduction to generic programming/
+/Topics/Asynchronous programming techniques   problems/
