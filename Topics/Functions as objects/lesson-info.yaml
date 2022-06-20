@@ -4,3 +4,5 @@ content:
 - Function generator
 - Function composition
 - Continuation-Passing Style
+- Function type
+- First predicate
