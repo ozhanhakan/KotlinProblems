@@ -12,8 +12,8 @@ enum class DangerLevel(val num: Int) {
     }
 }
 
-/*fun main() {
+fun main() {
     val high = DangerLevel.HIGH
     val medium = DangerLevel.MEDIUM
     println(high.getLevel() > medium.getLevel())
-}*/
+}
